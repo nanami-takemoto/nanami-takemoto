@@ -12,7 +12,8 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ija/contributions.svg)](http://qiita.com/ija)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/ija/followers.svg)](http://qiita.com/ija)
 
-https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/NGxHZGsrSHNSbFRhY0kvLzRlZUxuUT09
+### Other activities
+[<img src="SecHack365_openbadge.png" width="10%">](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/NGxHZGsrSHNSbFRhY0kvLzRlZUxuUT09)
 
 ### Links🔗
 - LinkdIn: https://www.linkedin.com/in/nanami-takemoto-761690283/
