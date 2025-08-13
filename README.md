@@ -3,9 +3,14 @@
 - Job: Infrastructure Engineer
 - Language: Japanese(native), English(just a little)
 
-### GitHub🐙
+### GitHub activities🐙
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanami-takemoto&hide=html)
 ![mattn's github stats](https://github-readme-stats.vercel.app/api?username=nanami-takemoto&show_icons=true&count_private=true&line_height=20)
+
+### Blog activities✒️
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/ija/posts.svg)](http://qiita.com/ija)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ija/contributions.svg)](http://qiita.com/ija)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/ija/followers.svg)](http://qiita.com/ija)
 
 ### Links🔗
 - LinkdIn: https://www.linkedin.com/in/nanami-takemoto-761690283/
