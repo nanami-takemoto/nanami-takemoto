@@ -1,6 +1,6 @@
 ### Profile🧾
 - Name: Nanami Takemoto
-- Job: Infrastructure Engineer
+- Job: DevOps Engineer
 - Language: Japanese(native), English(just a little)
 
 ### GitHub activities🐙
