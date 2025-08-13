@@ -1,8 +1,13 @@
-## Profile
+### Profile🧾
 - Name: Nanami Takemoto
 - Job: Infrastructure Engineer
+- Language: Japanese(native), English(just a little)
 
-## Links
+### GitHub🐙
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanami-takemoto&hide=html)
+![mattn's github stats](https://github-readme-stats.vercel.app/api?username=nanami-takemoto&show_icons=true&count_private=true&line_height=20)
+
+### Links🔗
 - LinkdIn: https://www.linkedin.com/in/nanami-takemoto-761690283/
 - X: https://twitter.com/Nanami_Takemoto
 - Blog: https://nanami-takemoto.com
