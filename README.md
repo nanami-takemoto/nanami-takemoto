@@ -20,5 +20,6 @@
 - X: https://x.com/Nanami_Takemoto
 - Blog: https://nanami-takemoto.com
 - Qiita: https://qiita.com/ija
+- Slideshare：　https://www.slideshare.net/NanamiTakemoto
 - Publication: https://techbookfest.org/organization/3mNCv38NVSj5h8e8XM1ns9
 
